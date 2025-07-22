@@ -1,0 +1,21 @@
+{
+    "usuario": "nathan-moura55",
+    "nome": "Nathan de Moura",
+    "bio": "Olá 👋 ",
+    "localizacao": "Brasil",
+    "desde": "2024-09-12",
+    "seguidores": 0,
+    "seguindo": 0,
+    "repos_publicos": 6,
+    "total_estrelas": 0,
+    "repo_mais_popular": {
+        "nome": "ap-202",
+        "estrelas": 0
+    },
+    "linguagens_usadas": {
+        "HTML": 1,
+        "Python": 2,
+        "CSS": 1,
+        "JavaScript": 1
+    }
+}
