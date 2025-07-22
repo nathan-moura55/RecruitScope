@@ -1,6 +1,6 @@
 # RecruitScope CLI
 
-Esta é uma ferramenta de linha de comando (CLI) para auxiliar recrutadores analisar e visualizar a atividade de um usuário no GitHub (em breve para mais plataformas).
+Esta é uma ferramenta de linha de comando (CLI) para auxiliar recrutadores analisar e visualizar a atividade de um usuário no GitHub.
 
 ## Funcionalidades
 
@@ -20,3 +20,15 @@ Esta é uma ferramenta de linha de comando (CLI) para auxiliar recrutadores anal
 
 ```bash
 pip install -e .
+```
+
+## Como usar
+
+Via linha de comando (CLI):
+Execute o comando abaixo, substituindo <github_username> pelo nome do usuário GitHub que deseja analisar:
+
+```bash
+recruitscope <github_username>
+```
+
+Os dados serão exibidos no terminal e também salvos no arquivo <github_username>_profile.json.
